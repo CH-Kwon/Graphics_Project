@@ -1,0 +1,14 @@
+﻿  Camera.cpp
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_glfw.cpp
+  imgui_impl_opengl3.cpp
+  imgui_widgets.cpp
+  main.cpp
+  Model.cpp
+  Shader.cpp
+  Generating Code...
+  glad.c
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Assignment1.vcxproj -> C:\Users\erpo0\Desktop\Digipen Projects\Graphics\Graphics Project\OpenGL_Deferred rendering\Debug\Assignment1.exe

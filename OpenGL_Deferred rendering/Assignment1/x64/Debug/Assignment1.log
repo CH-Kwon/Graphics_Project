@@ -1,0 +1,17 @@
+﻿  Camera.cpp
+C:\Users\erpo0\Desktop\Digipen Projects\Graphics\CS350_chiho.kwon_1\Assignment1\Camera.h(16,10): fatal error C1083: Cannot open include file: 'glad/glad.h': No such file or directory
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_glfw.cpp
+C:\Users\erpo0\Desktop\Digipen Projects\Graphics\CS350_chiho.kwon_1\Assignment1\include\imgui\imgui_impl_glfw.cpp(35,10): fatal error C1083: Cannot open include file: 'GLFW/glfw3.h': No such file or directory
+  imgui_impl_opengl3.cpp
+C:\Users\erpo0\Desktop\Digipen Projects\Graphics\CS350_chiho.kwon_1\Assignment1\include\imgui\imgui_impl_opengl3.cpp(85,10): fatal error C1083: Cannot open include file: 'glad/glad.h': No such file or directory
+  imgui_widgets.cpp
+  main.cpp
+C:\Users\erpo0\Desktop\Digipen Projects\Graphics\CS350_chiho.kwon_1\Assignment1\main.cpp(14,10): fatal error C1083: Cannot open include file: 'glad/glad.h': No such file or directory
+  Model.cpp
+C:\Users\erpo0\Desktop\Digipen Projects\Graphics\CS350_chiho.kwon_1\Assignment1\Model.cpp(15,10): fatal error C1083: Cannot open include file: 'glad/glad.h': No such file or directory
+  Shader.cpp
+C:\Users\erpo0\Desktop\Digipen Projects\Graphics\CS350_chiho.kwon_1\Assignment1\Shader.h(16,10): fatal error C1083: Cannot open include file: 'glad/glad.h': No such file or directory
+  Generating Code...
